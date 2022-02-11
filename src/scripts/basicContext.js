@@ -14,6 +14,7 @@ const valid = function(item = {}) {
 	let emptyItem = (Object.keys(item).length===0 ? true : false)
 
 	if (emptyItem===true)     item.type    = SEPARATOR
+	if (emptyItem===true)     item.type    = SEPARATOR
 	if (item.type==null)      item.type    = ITEM
 	if (item.class==null)     item.class   = ''
 	if (item.visible!==false) item.visible = true
