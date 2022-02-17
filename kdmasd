@@ -1,0 +1,900 @@
+[33mcommit a95eb8dc5a54b0930612f2c76c8083812bc6bacc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Lizandro Valdez Gtz <cotygut00@gmail.com>
+Date:   Fri Feb 11 08:46:48 2022 -0600
+
+    Cambios
+
+[33mcommit 23b900b071bb0cd2300bece7d182990b912f6317[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun Apr 22 12:30:20 2018 +0200
+
+    Deprecated
+
+[33mcommit d310a5a346c1f1c2c3c002a0022ed05fd4879d33[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Mon Jan 22 11:52:34 2018 +0100
+
+    Copyright year
+
+[33mcommit 3b6e2e064e414f4d278fd336a53bb19cf2d3c074[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jan 11 10:42:46 2017 +0100
+
+    Copyright
+
+[33mcommit 19da068f5469001186bd1475ebc7d30a976eb78a[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Jan 7 16:14:23 2016 +0100
+
+    Treat dist files like binaries
+
+[33mcommit 2988da5b431b1d001b3537576cc77cf67191a571[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Jan 7 14:20:38 2016 +0100
+
+    (c) 2016
+
+[33mcommit e01ae9d3d60516b4f6e2921dbd924c29abca9470[m[33m ([m[1;33mtag: v3.5.1[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Jan 7 11:23:57 2016 +0100
+
+    Updated version
+
+[33mcommit aa6fb806e9da635a800eeebca48799a67e111558[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Jan 7 11:23:51 2016 +0100
+
+    Rebuild
+
+[33mcommit 7272b47f7446275ce5880c7c4a27142889d051ef[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Jan 7 11:23:46 2016 +0100
+
+    Removed unused ignore from package.json
+
+[33mcommit 74e5d2dbcfbb870b202272b271ae2415e4b0eba3[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Jan 7 11:23:31 2016 +0100
+
+    Updated deps
+
+[33mcommit c690c63c6a5b94ba52d5adfab6154e1ec8f8dbf3[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Jan 7 11:23:09 2016 +0100
+
+    Removed unused information from bower.json
+
+[33mcommit 3e163264ae89fb07d8533a002d3bfcf38e74d5f8[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Jan 7 11:22:50 2016 +0100
+
+    Removed tap highlight color
+
+[33mcommit 46cdf5f06a043a435be415b6de391bd968ca6887[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Fri Oct 2 09:34:14 2015 +0200
+
+    Fixed Demo links
+
+[33mcommit a087b0c0eab73fdd6c220ffa41c4e744abc3bb63[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun Sep 20 17:35:13 2015 +0200
+
+    Removed unused variable
+
+[33mcommit 19671be72910c42f0712efd67d4e3a3e6a7c2da3[m[33m ([m[1;33mtag: v3.5.0[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun Sep 20 14:29:38 2015 +0200
+
+    Updated version
+
+[33mcommit e749566c39025a37a9ff338121f5ba47b165d86c[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun Sep 20 14:29:29 2015 +0200
+
+    Added new syntax to the docs
+
+[33mcommit ec07752984dd3487ece02049e012cd544da3c8fb[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun Sep 20 14:23:04 2015 +0200
+
+    Code improvements and simplified type declaration
+    
+    { } = Separator
+    { title: … } = Item
+    
+    No need to specify the type.
+
+[33mcommit fca76f7da24d1abab3dffd66a5db8f0ca07facf8[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun Sep 20 13:29:28 2015 +0200
+
+    Small code adjustments
+
+[33mcommit 90be78d27ff4ae4731b6b1a6ce65858158f8af04[m[33m ([m[1;33mtag: v3.4.0[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Fri Sep 18 11:31:41 2015 +0200
+
+    Updated version
+
+[33mcommit 28a210b0dc8bd7dc6ca88d577d1b32637133937a[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Fri Sep 18 11:29:54 2015 +0200
+
+    Separated code blocks
+
+[33mcommit ec81be1a423941b299ce4eca8aa212d74fd73d2d[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Fri Sep 18 11:27:09 2015 +0200
+
+    Added highlighting to the shell-block
+
+[33mcommit 0a4222999fd5886f3d0da3b13587785ac877b82c[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Fri Sep 18 11:22:28 2015 +0200
+
+    Added addon examples to the readme
+
+[33mcommit e7c489f8e922ce00041d2b0cb015816383c77519[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Fri Sep 18 09:47:49 2015 +0200
+
+    Added addon demos
+
+[33mcommit 2e7f4b630124fe6f60d06ba310ae3d3ff99fdbc8[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Fri Sep 18 09:43:21 2015 +0200
+
+    Cache getNormalizedEvent
+
+[33mcommit f03a1cecc04ff75e5cef79a7c6a22d397bc5880c[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Fri Sep 18 09:37:51 2015 +0200
+
+    Added addons/effects
+
+[33mcommit 41fd8d4b4fe14e9d9239a349e56669580a9b240b[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue Sep 8 20:06:03 2015 +0200
+
+    Code style adjustments
+
+[33mcommit 8d415f7cbcf844dbd45f178cc226fe33fff25cdc[m[33m ([m[1;33mtag: v3.3.1[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue Sep 8 13:32:44 2015 +0200
+
+    Updated version
+
+[33mcommit 3228c3fd72b1bcc1af7e7865e6d37370541e755b[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue Sep 8 13:32:22 2015 +0200
+
+    Fixed remove() not working in IE
+
+[33mcommit d9fb65ec17f542ce339479454159d870d8e8c7f6[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Fri Jul 24 23:22:56 2015 +0200
+
+    Catch babel errors
+
+[33mcommit c697b58be30c183e49037f08bda4207d47bcbd57[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Fri Jul 24 23:22:49 2015 +0200
+
+    Updated email
+
+[33mcommit 14643fec3977bb0b38dd86316cc0dca4426da52c[m[33m ([m[1;33mtag: v3.3.0[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jul 8 11:32:25 2015 +0200
+
+    New theme: Dark
+
+[33mcommit c93af404c5197942113f49aec8407b40591ba82f[m
+Merge: 5fb4a3c 17a426d
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jul 8 11:08:47 2015 +0200
+
+    Merge branch 'master' of https://github.com/electerious/basicContext
+
+[33mcommit 5fb4a3cdc85f5052f17a530a346a6da6bd00453c[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jul 8 11:08:43 2015 +0200
+
+    Renamed light theme
+
+[33mcommit 17a426d73b31f1863a231f4bcd8d43c7648d96fe[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jul 8 10:51:30 2015 +0200
+
+    Fixed image links for GitHub
+
+[33mcommit 9969b2e01693cbb017690ccf1450d746f0901274[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jul 8 10:47:18 2015 +0200
+
+    Updated images and added theme-previews
+
+[33mcommit 48d8ec322576d1701b96b81f7ab0aa79a2d24f25[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jul 8 10:31:42 2015 +0200
+
+    Added some border-radius to the demo-buttons
+
+[33mcommit 235174f762ad40d8fb3508c51ff7602546d42bd7[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jul 8 10:21:12 2015 +0200
+
+    Stop event propagation
+
+[33mcommit e238d0a2d10d5ab4bf929364b9af56d9c35ab9f5[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jul 8 10:20:05 2015 +0200
+
+    Added active-state to items
+
+[33mcommit ae257365dc418b4d6c0cc0ece570ea0de69ec2d8[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jul 8 09:56:31 2015 +0200
+
+    Close context with contextmenu-click #10
+
+[33mcommit b7658e1ce6dfc544cabf09eb8e9fdd8297b3590e[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jul 8 09:37:58 2015 +0200
+
+    Fixed path to themes
+
+[33mcommit bbbba0329c2b8c0ff9974ab84e0b6e28efc18691[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jul 8 09:37:47 2015 +0200
+
+    Added '.min' to theme-files
+
+[33mcommit 326436de4b64db8a9e940e29bd12915060eb4730[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jul 8 09:32:32 2015 +0200
+
+    Added themes to the readme
+
+[33mcommit a24890be9b1803af85347dfa7ba02ad2f67ca7f6[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue Jul 7 22:43:37 2015 +0200
+
+    Added themes
+
+[33mcommit fa027f3e9734546e405b79e0e083276057ca7f96[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue Jul 7 22:09:14 2015 +0200
+
+    Version push
+
+[33mcommit 723154285b77bf152d36c7b289f862903aa590ed[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue Jul 7 22:07:31 2015 +0200
+
+    Changed the button color
+
+[33mcommit eb73fc4e8d5b9a09c674727eb895ca3e1526fb7b[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue Jul 7 17:31:07 2015 +0200
+
+    Separated theme and layout
+
+[33mcommit 18fefc8260f24c49b2b420123a96a3ced9aeb3d3[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue Jul 7 17:28:26 2015 +0200
+
+    Include sub-folders when watching for changes
+
+[33mcommit b5d33d97231169026cdce7bf61ab54303826c111[m[33m ([m[1;33mtag: v3.2.1[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Mon Jul 6 12:41:56 2015 +0200
+
+    Version push
+
+[33mcommit a84ca9c1ff346d628b45d2acd780a3c00a2768bc[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Fri Jul 3 22:51:45 2015 +0200
+
+    Fixed error when calling close without a visible context
+
+[33mcommit 59dc12b9039eec8a522ea97fb665ba654df73628[m[33m ([m[1;33mtag: v3.2.0[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jul 1 20:11:34 2015 +0200
+
+    Added new features to the readme
+
+[33mcommit 9145d1568c90b9fd26bfce546bcda9cca26657df[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jul 1 09:54:44 2015 +0200
+
+    Support for disabled items #9
+    
+    and prefixed separator css selector
+
+[33mcommit e8c66e91c6d4a3de28678571405a4bd735bc88f0[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jul 1 09:23:49 2015 +0200
+
+    Added support for invisible items
+    
+    and converted var to let
+
+[33mcommit ee08dbdc016c1d535a9003cea441b2345dac893d[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Jul 1 09:22:50 2015 +0200
+
+    Updated version
+
+[33mcommit d198740d8491851242d8601da9a2bc0d12edf27a[m[33m ([m[1;33mtag: v3.1.2[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun Jun 28 00:16:16 2015 +0200
+
+    Added jQuery demo
+
+[33mcommit 84c0afba0d0276b9f26d278a5f894b9f1a999373[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Jun 27 23:40:22 2015 +0200
+
+    Added "How to use with jQuery"
+
+[33mcommit 2b7caa2074ceaeb6dfc9e2a84ea548bdc6b7e44f[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Jun 27 23:08:12 2015 +0200
+
+    Updated version
+
+[33mcommit 8da71c7ef931050b3d125958813e9a9f2487aac7[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Jun 27 23:05:50 2015 +0200
+
+    Several position adjustments
+
+[33mcommit 1df0640fb40a0221f68faf0655e4378dd183eca3[m[33m ([m[1;33mtag: v3.1.1[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Jun 27 22:28:35 2015 +0200
+
+    Updated version
+
+[33mcommit 30452cbe1a03448395fc4dea2b9845149dc9f29f[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Jun 27 22:27:18 2015 +0200
+
+    Fixed a bug with normalizeEvent
+
+[33mcommit 2da112ef740fec3a043ed24d8e3bbd8ef1f9a602[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Mon Jun 22 20:57:53 2015 +0200
+
+    Catch sass errors
+
+[33mcommit a3540aedfce874b49583b5c151ce4ff604f890fd[m[33m ([m[1;33mtag: v3.1.0[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Jun 20 13:31:20 2015 +0200
+
+    CommonJS and AMD support
+
+[33mcommit 7aeb75bb13ec77f02db769f0dcfc4eabc15104a9[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Jun 13 22:19:30 2015 +0200
+
+    Rebuild
+
+[33mcommit f4f61593951ce31b992332d00613c2d16eb11e44[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Jun 13 22:19:10 2015 +0200
+
+    Code adjustments
+
+[33mcommit 4ea3d679eb9c68f24a8ac7b539033361c7b2994c[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Jun 13 22:12:29 2015 +0200
+
+    Updated indention
+
+[33mcommit 90232c2ac9a23de9f300663d968bd2620759b16a[m[33m ([m[1;33mtag: v3.0.3[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Jun 13 22:03:59 2015 +0200
+
+    Updated deps
+
+[33mcommit 744d4f09d28c25ea3ae865a78abc3596638ab92d[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Jun 13 22:02:52 2015 +0200
+
+    Context with scrollbar now 20px wider #8
+
+[33mcommit 2f5b457d4a0d288690d529508e874492ba7e85a1[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Jun 13 21:58:25 2015 +0200
+
+    Added custom position demo #8
+
+[33mcommit a6ed00a463f1674b6cb8e62c5ee832a171ca86ec[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Jun 13 21:43:51 2015 +0200
+
+    Added support for custom coordinates #8
+
+[33mcommit 9806e0a18a688bc43588115a028062176c122185[m[33m ([m[1;33mtag: v3.0.2[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Jun 13 21:23:08 2015 +0200
+
+    Updated version
+
+[33mcommit aa006447074b59d30e2b955951a81065a9a87c63[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Jun 13 21:22:17 2015 +0200
+
+    Fixed error after calling visible() without a visible context
+
+[33mcommit 523db1ec9dd085e23147d45e41fc45735ff19322[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Mon Jun 8 13:59:34 2015 +0200
+
+    Added watch task to gulpfile
+
+[33mcommit 58337c6a87fef12994d65772e0247aaf9041e2a6[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Fri Jun 5 11:21:01 2015 +0200
+
+    Added demos
+
+[33mcommit 3704883611a5a822e08054f2ebdc47706521dd41[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Jun 4 13:00:29 2015 +0200
+
+    Updated bower/npm installation and include code example
+
+[33mcommit d78a3c208c184d5c8e0f47f37abb2d575a5d9cfe[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Jun 4 12:38:58 2015 +0200
+
+    Added installation description
+
+[33mcommit 71573b5ccee15a453abe40da4ff7828c0fb7236a[m[33m ([m[1;33mtag: v3.0.1[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Jun 4 00:47:46 2015 +0200
+
+    Rebuild
+
+[33mcommit 96fe84cccb802a8bea257ebbb8eb29d353f1c4a6[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Jun 4 00:47:40 2015 +0200
+
+    Added npm-support and a new example
+
+[33mcommit 9824c201e21c9ef0d00a85137bb072a67d6a272c[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Jun 4 00:45:46 2015 +0200
+
+    Fixed npm name and updated version
+
+[33mcommit 7e6e9d7ae2cf9481e8473e034e58c283f50f0ae6[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Jun 4 00:45:26 2015 +0200
+
+    Updated deps
+
+[33mcommit a31c86c352b6ae5a8f1adc01ae477da2c99450f7[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun May 17 17:06:28 2015 +0200
+
+    Improved requirements-section in the docs
+
+[33mcommit c5e52817376de3ada04b66b6ea1d4b688292c1da[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun May 17 17:03:13 2015 +0200
+
+    Fixed demo links (ups)
+
+[33mcommit 4f48b2213a204b122ab24c7063356248bad641ac[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun May 17 17:01:13 2015 +0200
+
+    Fixed demo links
+
+[33mcommit 67f4306c511f9dffa1c0876efc2902e4eb26a43e[m[33m ([m[1;33mtag: v3.0.0[m[33m)[m
+Merge: 3c42fde f9a2016
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun May 17 16:55:21 2015 +0200
+
+    Merge pull request #7 from electerious/v3.0.0
+    
+    v3.0.0
+
+[33mcommit f9a2016e5aa50039d31cd7c9da7e075339c6c503[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun May 17 16:54:12 2015 +0200
+
+    Updated deps
+
+[33mcommit 1b9603df902948bb6877074378195090da080125[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun May 17 16:52:28 2015 +0200
+
+    Added more demos to the docs
+
+[33mcommit 0621c04129336007e33e9884f1b97671d890b622[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun May 17 16:12:21 2015 +0200
+
+    Now jQuery free
+
+[33mcommit 3c42fde6276fbdd9654c45be7adeee443b935f9f[m[33m ([m[1;33mtag: v2.0.9[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Apr 11 17:16:34 2015 +0200
+
+    Version push
+
+[33mcommit e2ebb0b012a4ecb4967326d0b2df281c31daba25[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Apr 11 17:15:21 2015 +0200
+
+    Fixed height calculation and added natural scrolling on iOS
+
+[33mcommit 76c5446bf18134ccc43615eccd37d6dd818443bc[m[33m ([m[1;33mtag: v2.0.8[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Apr 11 16:37:18 2015 +0200
+
+    Version push
+
+[33mcommit ce4173cbc03b3755569b2f155ccee5b20fab28f2[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Apr 11 16:36:58 2015 +0200
+
+    Build last version
+
+[33mcommit b5b2c2c4d4080a7e84be2461ef5e1deb44186da5[m[33m ([m[1;33mtag: v2.0.7[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Apr 11 16:33:23 2015 +0200
+
+    Pushed version
+
+[33mcommit 42c385600c9650e0bd2975cfce26b1e93d5f2199[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Apr 11 16:33:00 2015 +0200
+
+    Revert
+
+[33mcommit c80edbc4c0f960333dd67e48897fb0dcd0eb8bcf[m[33m ([m[1;33mtag: v2.0.6[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Apr 11 16:19:34 2015 +0200
+
+    Natural scrolling on iOS
+
+[33mcommit 739a7bcfea18d4e4938b81641b52b5fe2704baec[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun Apr 5 18:00:33 2015 +0200
+
+    Updated readme
+    
+    CoffeeScript to JS
+    Added live example
+
+[33mcommit 2d2cc68f913bb1413d00102349a9b995b0e5522d[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun Apr 5 18:00:02 2015 +0200
+
+    Added default box-sizing and text-align
+
+[33mcommit 5660973644f1902965cf0c9516746a73fb578d44[m[33m ([m[1;33mtag: v2.0.5[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Apr 1 23:43:05 2015 +0200
+
+    Version push
+
+[33mcommit 4fb2f5e7e4f46833c21ce5d183d8c44eb673a0a2[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Apr 1 23:42:44 2015 +0200
+
+    Fixed scrollbar in FF
+
+[33mcommit 19d8fec8bc92df91064b7281c295d50e55420c39[m[33m ([m[1;33mtag: v2.0.4[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue Mar 31 21:16:55 2015 +0200
+
+    Version push
+
+[33mcommit 09ad0429771f24aeb04d23adb63024bfd9f3589e[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue Mar 31 21:16:32 2015 +0200
+
+    Disabled user select
+
+[33mcommit 26c0b82123009dac71a85f9dc4de7b031d87ac1e[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun Mar 22 00:04:28 2015 +0100
+
+    Updated docs
+
+[33mcommit 44c585cd0c0759a0537c2353f2e445a472e3302f[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun Mar 22 00:04:21 2015 +0100
+
+    Updated copyright year
+
+[33mcommit f0adf6a06988b4e764aa070d43b9b0f5c9e05e8a[m[33m ([m[1;33mtag: v2.0.3[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Mar 21 23:22:45 2015 +0100
+
+    Updated version
+
+[33mcommit a2e93c11f773780ac3b5cd92d28fcca219342e7a[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Mar 21 23:22:22 2015 +0100
+
+    Updated deps
+
+[33mcommit d426490f22627994e0068054e7a3adcc021bc009[m[33m ([m[1;33mtag: v2.0.2[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Dec 4 12:06:16 2014 +0100
+
+    Version push
+
+[33mcommit 3af689859265cc80b7d2cc648f598ff3a0b0fada[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Dec 4 12:05:43 2014 +0100
+
+    Identify items using a number
+
+[33mcommit 54ba13ad297e6bc7a72730f647053703cda056c5[m[33m ([m[1;33mtag: v2.0.1[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun Nov 30 00:27:52 2014 +0100
+
+    Version push
+
+[33mcommit 41bcb2a36bd43fdc630216ee0e9a673d2c14bc2b[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun Nov 30 00:27:27 2014 +0100
+
+    Scrollable context, fixed callback
+
+[33mcommit 6afca338022e3c85bee90edd37f2b0323805be22[m[33m ([m[1;33mtag: v2.0.0[m[33m)[m
+Merge: 9f216e8 3ef1fda
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Nov 29 22:13:37 2014 +0100
+
+    Merge pull request #6 from electerious/v2.0.0
+    
+    v2.0.0
+
+[33mcommit 3ef1fda7b2ade744a5459f93c87b9bdb5853932f[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Nov 29 22:05:16 2014 +0100
+
+    Fixed a bug where basicContext broke the overflow of the site
+
+[33mcommit 47a9698e34832e24bb08c45ad7b145dd9293b059[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Thu Nov 27 23:59:42 2014 +0100
+
+    Added comments
+
+[33mcommit 693155bb413053d9a6add5715c76570d9863ac7b[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Nov 26 12:26:52 2014 +0100
+
+    Changed folder-structure
+
+[33mcommit cc557863b868b08aa7dbf25c816f880b4be61f87[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Nov 26 11:56:40 2014 +0100
+
+    Version push to v2.0.0
+
+[33mcommit c66590a4ad924bbcaecfa108ef7a41d324f2bb53[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Nov 26 11:51:30 2014 +0100
+
+    Added basicModal__ prefix
+
+[33mcommit 007b4fd06d9ccb0793c8e6783e7a391033ee8d18[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Nov 26 11:38:58 2014 +0100
+
+    Changed name to basicContext and removed .context selector dependencies
+
+[33mcommit a657c09e79676377c1234e17b491463862f6fca2[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Nov 26 11:38:14 2014 +0100
+
+    Updated deps
+
+[33mcommit fd89c344fe4721e6acc142e3a6b5b649f974acae[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue Nov 25 17:03:47 2014 +0100
+
+    CSS structure changes
+
+[33mcommit 9f216e8921241172311f98ffa9ae3f797e9ca1fc[m[33m ([m[1;33mtag: v1.1.6[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue Nov 11 21:00:43 2014 +0100
+
+    Do not trigger the default action of the event
+
+[33mcommit 0aec55bc1a0c86a3380341ad3b218d7ee8d0e904[m[33m ([m[1;33mtag: v1.1.5[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Nov 1 23:36:19 2014 +0100
+
+    Updated version
+
+[33mcommit 318b1cff1528a19cec1a9aba37854efcba25ce7b[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Nov 1 23:36:12 2014 +0100
+
+    Rebuild
+
+[33mcommit 292fa5fced18679424d6d4a8ec617fd26e2434f6[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Nov 1 23:35:43 2014 +0100
+
+    Fixed usage of class
+
+[33mcommit 635157075dfb0e69bc9db87cc1b244f331b25c56[m[33m ([m[1;33mtag: v1.1.4[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Nov 1 23:32:13 2014 +0100
+
+    Updated version
+
+[33mcommit 4a3d110508e88c277cd5d3d8edcbdf17a6e8d932[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Nov 1 23:31:54 2014 +0100
+
+    Fixed usage of class and escape data-name #4
+
+[33mcommit 2f3f77188744d25dccaa53227d017a5a9c069fd3[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Nov 1 23:30:50 2014 +0100
+
+    Updated deps
+
+[33mcommit 590046cf98169ecb4e367798c9f42d315a945bc6[m[33m ([m[1;33mtag: v1.1.3[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Oct 25 22:01:34 2014 +0200
+
+    Updated version
+
+[33mcommit c411f098c5784c52f1c061a954eb40775d34eb79[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sat Oct 25 22:01:12 2014 +0200
+
+    Icon changes
+    
+    - Equalized icon width
+    - Hide icon span when not needed
+
+[33mcommit 6ae31f49b9ea0449462e1bebf47ca57fde67ab72[m[33m ([m[1;33mtag: v1.1.2[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue Oct 21 15:30:44 2014 +0200
+
+    Fixed missspelled vars
+
+[33mcommit 80aa0ba97fd66d79a165bb93a2f8cfc95db6b5f8[m[33m ([m[1;33mtag: v1.1.1[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue Oct 21 15:26:21 2014 +0200
+
+    Fixed separator element
+
+[33mcommit 88d7b177380c6289328dc05a2a88323de73c0eb2[m[33m ([m[1;33mtag: v1.1.0[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Mon Oct 20 11:32:01 2014 +0200
+
+    Updated version
+
+[33mcommit 7060f2dc35f1332815fcaa504e0ef012f4b16f0d[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Mon Oct 20 11:31:32 2014 +0200
+
+    Custom class #3 Callback #2
+
+[33mcommit c372a88855ba409dd1772b829205bf0b3dbeb6ec[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Mon Oct 20 11:15:10 2014 +0200
+
+    Better defaults handling
+
+[33mcommit c698492b2e38ca8bed6adba1460ef89c58e4c7f1[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Mon Oct 20 11:01:49 2014 +0200
+
+    Use original event to get the position of the mouse when using 'touchend'
+
+[33mcommit 1ee731ea6934f851af4315b926467e9dc22f7b11[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Mon Oct 20 10:57:00 2014 +0200
+
+    Updated deps
+
+[33mcommit e881c365e675323ec00592d3ec60b97f186af0d9[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Wed Oct 8 21:28:18 2014 +0200
+
+    Updated deps
+
+[33mcommit 877d6f3ceb73ec2bf4efaf4dd2b010419eeae0c1[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Mon Sep 1 21:35:57 2014 +0200
+
+    Updated deps
+
+[33mcommit 848b0a136aaf305be9e79d83c9a282b228342d2e[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Mon Aug 18 15:20:25 2014 +0200
+
+    Removed jQuery dep
+
+[33mcommit 82346c992f4cd3634919e31640a5d068a92136a5[m[33m ([m[1;33mtag: v1.0.4[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Mon Aug 18 15:15:32 2014 +0200
+
+    Version push to v1.0.4
+    
+    - Added autoprefixer
+    - Removed mixins
+
+[33mcommit 9582aa3166f6af6fb550af53fba9a96a4297fc4a[m[33m ([m[1;33mtag: v1.0.3[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun Aug 17 13:51:37 2014 +0200
+
+    Version push to 1.0.3
+
+[33mcommit e8e5a1deba724f773728af1263aafac6037eabad[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun Aug 17 13:51:27 2014 +0200
+
+    Updated year in license
+
+[33mcommit d6665ede8e50c7f9c8129761b2f0afea0b2d4e31[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Sun Aug 17 13:50:24 2014 +0200
+
+    Updated deps
+
+[33mcommit 7701b38b2519d5c0d20ce6033f8e932048562ce6[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue May 27 17:00:55 2014 +0200
+
+    Added jquery dependency
+
+[33mcommit f2b3c475aab917bb4b7eb7dc550874a691601d87[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Fri May 23 17:52:03 2014 +0200
+
+    Less background-color for separator
+
+[33mcommit d1d2d4f0120360634de843525511a9a59f91d22a[m[33m ([m[1;33mtag: v1.0.2[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Fri May 23 16:51:09 2014 +0200
+
+    Version push to v1.0.2
+
+[33mcommit 8c6c3eeddb778329675e16610ce3a103480467ef[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Fri May 23 16:49:10 2014 +0200
+
+    Added separator-item
+
+[33mcommit ed920c9e3990a9531ccbbd8a4e6c6418e7735afe[m
+Author: Tobias Reich <tobias@electerious.com>
+Date:   Tue May 6 16:28:14 2014 +0200
+
+    Example adjustments
+
+[33mcommit 7436a444696e411c8f0d7ec25c1ebc9483cc3bea[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue May 6 16:26:18 2014 +0200
+
+    Added readme.md
+
+[33mcommit ed2da775caf65214b2642ae914f6d0b3aeda6384[m[33m ([m[1;33mtag: v1.0.1[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue May 6 13:49:12 2014 +0200
+
+    Fixed wrong filename
+
+[33mcommit 9e8de575e1d228f73dc0e481f3aa09cadd0d7d36[m[33m ([m[1;33mtag: v1.0.0[m[33m)[m
+Author: Tobias Reich <tobias.reich.ich@gmail.com>
+Date:   Tue May 6 13:38:16 2014 +0200
+
+    Initial commit
